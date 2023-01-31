@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/xsl" href="Main.xsl"?>
-<cancion>
+<cancion xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/Users/etern/OneDrive/Escritorio/Cancion/Cancion.xsd">
 	<datos>
 		<titulo>Hipócrita</titulo>
 		<autor>Anuel AA</autor>
